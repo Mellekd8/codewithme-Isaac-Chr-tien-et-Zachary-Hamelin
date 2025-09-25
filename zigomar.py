@@ -23,6 +23,9 @@ TODO :
 
 Équipier : Isaac Chrétien
 
+https://projets420.gitbook.io/notes-de-cours/exercices-s1-s5/chasse-au-tresor-avec-zigomar
+
+https://chat.mistral.ai/chat
 
 """
 
