@@ -21,7 +21,7 @@ TODO :
     B) Partager le projet sur GitHub avec l'équipe et l'enseignante
 
 
-Équipier : Isaac Chrétien
+Équipier : Isaac Chrétien et Zachary Hamelin
 
 https://projets420.gitbook.io/notes-de-cours/exercices-s1-s5/chasse-au-tresor-avec-zigomar
 
